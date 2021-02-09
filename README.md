@@ -1,1 +1,1 @@
-## JetBot¿¡¼­ Object Detection ¹× Following ±â´É ±¸ÇöÇÏ±â
+## JetBotì—ì„œ Object Detection ë° Following ê¸°ëŠ¥ êµ¬í˜„í•˜ê¸°
