@@ -4,6 +4,8 @@
 > ### 참고 자료
  * TensorFlow 2 Object Detection API tutorial <br>
 https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/index.html
+ * Tensorflow Model Garden
+https://github.com/tensorflow/models
  * Object Detection API with TensorFlow 2 <br>
 https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2.md
  * JetBot <br>
