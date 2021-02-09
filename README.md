@@ -1,4 +1,4 @@
-## JetBot에서 Object Detection 및 Following 기능 구현하기
+### JetBot에서 Object Detection 및 Following 기능 구현하기
 <br>
 
 > ### 참고 자료
