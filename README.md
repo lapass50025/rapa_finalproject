@@ -14,6 +14,8 @@ https://developer.nvidia.com/rdp/cudnn-archive
 https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
  * [Object Detection] Feature Pyramid Network (FPN) <br>
 https://eehoeskrap.tistory.com/300
+ * labelimg (windows binary) <br>
+https://github.com/tzutalin/labelImg
 
 > ### 모델 가이드
  <img src="doc/01_model_guide.jpg">
