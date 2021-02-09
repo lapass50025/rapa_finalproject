@@ -15,7 +15,7 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
  * [Object Detection] Feature Pyramid Network (FPN) <br>
 https://eehoeskrap.tistory.com/300
  * labelimg <br>
-https://github.com/tzutalin/labelImg
+https://github.com/tzutalin/labelImg <br>
 https://github.com/tzutalin/labelImg/releases
 
 > ### 모델 가이드
