@@ -18,4 +18,5 @@ https://eehoeskrap.tistory.com/300
 https://github.com/tzutalin/labelImg
 
 > ### 모델 가이드
+출처 : https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
  <img src="doc/01_model_guide.jpg">
